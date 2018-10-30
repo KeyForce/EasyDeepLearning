@@ -1,1 +1,3 @@
-# EasyDeeplearning
+# EasyDeepLearning
+
+## TODO LIST
